@@ -7,3 +7,6 @@ A simple python program that:
 1. Have python installed.
 2. Clone the repo.
 3. open terminal and run `python user_input.py`
+
+### Sample Output
+![Program Output](./images/output.png)
