@@ -9,4 +9,4 @@ A simple python program that:
 3. open terminal and run `python user_input.py`
 
 ### Sample Output
-![Program Output](images/output.png)
+![Program Output](Images/output.png)
